@@ -1,0 +1,22 @@
+.contain{
+   background-color: lightcyan;
+    margin: 10 20;
+    padding: 20 10;
+   
+    };
+  
+#hed{
+    margin: 50;
+    align-content: center;
+    padding-left: 50;
+};
+#num{
+  text-align: center;
+   box-sizing: content-box;
+    width:10;
+    border-radius: 50;
+  
+   
+
+};
+
